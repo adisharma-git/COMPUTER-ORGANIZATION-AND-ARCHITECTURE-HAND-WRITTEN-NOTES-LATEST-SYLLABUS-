@@ -8,7 +8,8 @@ These notes are designed to provide a clear and easy-to-understand overview of t
 
 ## Table of Contents
 
-- UNIT-1:Functional Blocks of a Computer:
+- UNIT-1:Functional Blocks of a Computer:<br>
+![UNIT-1 SYLLABUS](UNIT-I/Syllabus.png)
   > [NOTES](https://github.com/adisharma-git/COMPUTER-ORGANIZATION-AND-ARCHITECTURE-HAND-WRITTEN-NOTES-LATEST-SYLLABUS-/tree/main/UNIT-I)
 - UNIT-2:Basic Processing Unit:
   > Notes coming soon
@@ -35,7 +36,7 @@ Here's a sneak peek at the notes:[LINK](https://github.com/adisharma-git/COMPUTE
 
 ## How to Use
 
-Clone this repository to your local machine:git clone https://github.com/your-username/coa-notes.git
+Clone this repository to your local machine: `git clone https://github.com/your-username/coa-notes.git`
 Open the desired unit's markdown file to view the notes.
 
 ## Contributing
@@ -43,14 +44,16 @@ Open the desired unit's markdown file to view the notes.
 If you'd like to contribute to these notes, please follow these steps:
 
 - Fork this repository.
-- Create a new branch git checkout -b feature/add-new-unit.
-- Make your changes and commit them git commit -am 'Add new unit'.
-- Push to the branch git push origin feature/add-new-unit.
+- Create a new branch `git checkout -b feature/add-new-unit`.
+- Make your changes and commit them `git commit -am 'Add new unit'`.
+- Push to the branch `git push origin feature/add-new-unit`.
 - Create a new Pull Request.
 
 ## Contact
 
 For any questions, feedback, or suggestions regarding these notes:
 
-Author: ADITYA SHARMA
+Author: ADITYA SHARMA<br>
 Email: tech.adishar@gmail.com
+
+### Kindly star this Repo so that more people can use the resources.
